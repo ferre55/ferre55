@@ -1,6 +1,12 @@
 
 ![Jenn_github](https://github.com/user-attachments/assets/7772f9e8-74d8-464d-a865-6b1f167f7359)
 
+** About Me **
+- 💻 Enjoying the adventure of programming
+- 🖥 Embedded Software Developer Jr.
+- 📚 Always Learning 
+- 🌮 From Mexico 
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
