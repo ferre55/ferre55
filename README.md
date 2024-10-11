@@ -1,7 +1,7 @@
 
 ![Jenn_github](https://github.com/user-attachments/assets/7772f9e8-74d8-464d-a865-6b1f167f7359)
 
-** About Me **
+**About Me**
 - 💻 Enjoying the adventure of programming
 - 🖥 Embedded Software Developer Jr.
 - 📚 Always Learning 
